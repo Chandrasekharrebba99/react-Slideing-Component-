@@ -1,0 +1,17 @@
+/* Write your code here */
+.topBgcont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  text-align: center;
+  flex-wrap: wrap;
+  width: 40%;
+}
+.textwhite {
+  color: aliceblue;
+}
